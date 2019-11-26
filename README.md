@@ -1,0 +1,2 @@
+# Pong prototype 
+This is the prototype for a version of pong that can be played on a SSD1306-based 128x64 or 128x32 pixel OLED displays with a Raspberry Pi. To simulate the display it uses an array to simulate the display.
